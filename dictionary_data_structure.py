@@ -1,6 +1,7 @@
 #dict --> dictionary
 
 ogrenciler_dict = {100:"Ali Kaya",101:"Zeynep Taş"}
+
 #print(type(ogrenciler_dict))
 #print(ogrenciler_dict)
 #print(ogrenciler_dict[100])
